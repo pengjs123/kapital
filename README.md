@@ -22,7 +22,7 @@ $ pip install bs4
 
 $ pip install futures
 
-$ git clone https://github.com/X-kapital/kapital
+$ git clone https://github.com/napeng401/kapital
 
 # run script
 
